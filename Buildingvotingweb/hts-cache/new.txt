@@ -1,0 +1,5 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+19:06:30	146/146	---MCZ	404	error ('Not%20Found')	text/html	date:Tue,%2013%20Aug%202024%2023:05:24%20GMT	https://mineshaft.help/robots.txt		(from )
+19:06:30	287/287	---MCZ	200	added ('OK')	text/html	date:Tue,%2021%20May%202024%2009:43:58%20GMT	https://mineshaft.help/	C:/My%20Web%20Sites/Buildingvotingweb/mineshaft.help/index.html	(from )
+19:06:30	42382/42382	---M--	200	added ('OK')	image/png	etag:W/%22a58e-18f9a8948aa%22	https://mineshaft.help/favicon.png	C:/My%20Web%20Sites/Buildingvotingweb/mineshaft.help/favicon.png	(from https://mineshaft.help/)
+19:06:30	237/237	---MCZ	200	added ('OK')	application/javascript	etag:W/%22ed-18f9a8946cc%22	https://mineshaft.help/script.js	C:/My%20Web%20Sites/Buildingvotingweb/mineshaft.help/script.js	(from https://mineshaft.help/)
